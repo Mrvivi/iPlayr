@@ -1,6 +1,4 @@
-Export from 影音宝 - 听你想听的，看你想看的
-[Group]
-groupName=蜜桃传媒
+18🈲,#genre#
 视频,http://m3u8.jiertai.cn/e2868338769182a785fb375e40a356e709c6cb68.m3u8
 视频,http://m3u8.jiertai.cn/8e883958dc0212d5a6abd9356b0e008e.m3u8
 视频,http://m3u8.jiertai.cn/4da74d95193f5bf4308bfddedff52efa.m3u8
@@ -58,8 +56,7 @@ groupName=蜜桃传媒
 视频,http://m3u8.jiertai.cn/65ba7a37004572d63496e47b7deb02b449054ebb.m3u8
 视频,http://m3u8.jiertai.cn/cc50b6646b76d8fe3abcfbd9665a001ffd204eda.m3u8
 视频,http://m3u8.jiertai.cn/e3f5aef2cc527b5c2a0264a18da4b0d0799989fe.m3u8
-[Group]
-groupName=萝莉
+萝莉,#genre#
 视频,http://m3u8.jiertai.cn/7266e82a230a18ef457fe82b6c853fad.m3u8
 视频,http://m3u8.jiertai.cn/e96c8cfecc3a7965b9b1f3024b1b5f93dbf9f5cc.m3u8
 视频,http://m3u8.jiertai.cn/ce3c750c2785f1deb3b77480881ae5c2da1d0bc7.m3u8
@@ -72,15 +69,14 @@ groupName=萝莉
 萝莉,http://m3u8.jiertai.cn/187166feff60240799caa66fa1b695233cd1f5ae.m3u8
 萝莉,http://m3u8.jiertai.cn/7a2bdfe363f2eb19180ed92ed8a8ab6119cd5603.m3u8
 萝莉,http://m3u8.jiertai.cn/cbff57c7b992d8e54a5c6eece3b62439e7f6ebc0.m3u8
-[Group]
-groupName=少妇
+少妇,#genre#
 视频,http://m3u8.jiertai.cn/89cda515da8c607ae2c67f50b80abe70a0dfe917.m3u8
 视频,http://m3u8.jiertai.cn/0a3314b37f958b2328a16ff1d5f14f2de95da4c4.m3u8
 视频,http://m3u8.jiertai.cn/63854c51dd41005dcfe15dc0f443f7dc.m3u8
 视频,http://m3u8.jiertai.cn/598dee63ec2faab4b0950ca114a8950ac086b5d5.m3u8
 视频,http://m3u8.jiertai.cn/d8499b00447de84dbfe3e697041ee7956a694018.m3u8
 视频,http://m3u8.jiertai.cn/2f90ad924bbf785dc6353807dce12c01d4524831.m3u8
-”#EXTINF:-1,http://m3u8.jiertai.cn/212adccd601f0bf19fa468ed1732ac136feaae13.m3u8
+视频,http://m3u8.jiertai.cn/212adccd601f0bf19fa468ed1732ac136feaae13.m3u8
 视频,http://m3u8.jiertai.cn/e71441776c96b1cbf5f02acf6a9745889d756391.m3u8
 少妇偷情,http://m3u8.jiertai.cn/620504edd10558059c64c07a61a90003dc43eab4.m3u8
 少妇足交,http://m3u8.jiertai.cn/4f9ea72800d1ad337aeb7a004d36b1fb.m3u8
@@ -99,8 +95,7 @@ groupName=少妇
 女同事2,http://m3u8.jiertai.cn/729817b3edc20f35555868861b0b6ca2.m3u8
 孟若羽,http://m3u8.jiertai.cn/1eba73dfb0a534e46fb093480c50de88.m3u8
 女同事,http://m3u8.jiertai.cn/82aafe900df182598086dc13bce09860c85d3824.m3u8
-[Group]
-groupName=柚子猫
+柚子猫,#genre#
 视频,http://m3u8.jiertai.cn/5f53bebf6e9ed410a1b9c6392e916074.m3u8
 视频,http://m3u8.jiertai.cn/709c910284f08fa37287226ab83d8f87.m3u8
 视频,http://m3u8.jiertai.cn/c54410a33336eae5a54b4db2c6527914.m3u8
@@ -122,26 +117,19 @@ groupName=柚子猫
 视频,http://m3u8.jiertai.cn/8166dd647f436f7ce338de4703a8bcc1.m3u8
 视频,http://m3u8.jiertai.cn/8d376a1e4bf7444267925a88d13af9d5.m3u8
 视频,http://m3u8.jiertai.cn/2c4c64e4642f47d70681ee40a7458154.m3u8
-[Group]
-groupName=动漫
+动漫,#genre#
 动漫,http://m3u8.jiertai.cn/de533d6f5025badd07860b05503703e0.m3u8
 动漫,http://m3u8.jiertai.cn/8256e485485477903837cbc55ad216b1.m3u8
 动漫,http://m3u8.jiertai.cn/e04ffb86c29db7e7a050393fb871328f780b1a03.m3u8
 动漫,http://m3u8.jiertai.cn/2b662d0f3104329df735d01a330da5ed4e5515fd.m3u8
 动漫,http://m3u8.jiertai.cn/1f4da66272d6f8ed500e6dfd9242aada.m3u8
 动漫,http://m3u8.jiertai.cn/0d71a6ef59126d538c004b7348600834.m3u8
-[Group]
-groupName=百合
+百合,#genre#
 姐妹,http://m3u8.jiertai.cn/1861ec657868451e77c00f3ec9ae184c3ec66084.m3u8
 柚木,http://m3u8.jiertai.cn/072d6ba1508ac1c9900467053baf74916520de7c.m3u8
-[Group]
-groupName=多人运动
+多人运动,#genre#
 侧精,http://m3u8.jiertai.cn/538a6fb8af7bb1bf11805bfffa8090f5882e5a31.m3u8
-[Group]
-groupName=女教师
+女教师,#genre#
 女教师,http://m3u8.jiertai.cn/b9c9ac9b3cb2b51436151df141b3fb87.m3u8
-[Group]
-groupName=翻墙视频
+黑丝,#genre#
 黑丝,https://video.km7p7.xyz/uploads/2022-02-04/31435887/4c8644db3375b21be8263921469d9a58_wm.mp4
-[Group]
-groupName=视频
